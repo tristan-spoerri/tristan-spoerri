@@ -1,16 +1,60 @@
-### Hi there 👋
+# Tristan Spoerri
+Cybersecurity Professional | Current Secret Clearance | CompTIA Security+ | Splunk Certified User
 
-<!--
-**tristan-spoerri/tristan-spoerri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tristan-spoerri-184320ba/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](GitHub/TSpoerri11)
 
-Here are some ideas to get you started:
+As an Army Veteran and Cybersecurity Professional, my technical and medical administration background has fostered my adaptability, creativity, and versatility in fast-paced, ever-changing environments. My passion for problem-solving and implementing cybersecurity principles both blue and red hat led me to transition into cybersecurity, where I bring a unique perspective to innovative solutions for employers and customers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Skills and Expertise:**
+
+- Security Fundamentals:
+  CIA Triad | Governance | Compliance | Disaster Recovery | Risk Analysis and Risk Mitigation | Business Continuity Planning
+
+- System Administration:
+  Linux Server Configuration | Windows Server Configuration Tar | Cron and Cron Jobs | Logging | Bash Scripting and Programming | Active Directory | Kerberos
+
+- Networks and Network Security:
+  Network Architecture Operations and Security | Wireshark and Traffic Analysis | Email Security | Wireless Security | Cryptography and Encryption | Port Scanning | Cloud
+  Security and Virtualization
+
+- Defensive Security:
+  Splunk | Monitoring and Logging | Incident Response | Forensics | Data Extraction and Recovery
+
+- Offensive Security:
+  Burp Suite | Zenmap | SQL Injection | Webshells | Pivoting Networks | Searchsploit and Metasploit | Penetration Testing Execution Standard | XSS Vulnerabilities and
+  Payloads | File Inclusion and Command Injection Vulnerabilities
+
+
+🔒 **Clearance:** Active Secret Clearance
+
+📚 **Education:**
+
+University Of Utah, Cybersecurity Bootcamp Program (2022 - 2023)
+
+	- Security Fundamentals:
+	CIA Triad | Governance | Compliance | Disaster Recovery | Risk Analysis and Risk Mitigation | Business Continuity Planning
+
+	- System Administration:
+	Linux Server Configuration | Windows Server Configuration Tar | Cron and Cron Jobs | Logging | Bash Scripting and Programming | Active Directory | Kerberos
+
+	- Networks and Network Security:
+	Network Architecture Operations and Security | Wireshark and Traffic Analysis | Email Security | Wireless Security | Cryptography and Encryption | Port Scanning |
+ 	Cloud Security and Virtualization
+
+	- Defensive Security:
+	Splunk | Monitoring and Logging | Incident Response | Forensics | Data Extraction and Recovery
+
+	- Offensive Security:
+	Burp Suite | Zenmap | SQL Injection | Webshells | Pivoting Networks | Searchsploit and Metasploit | Penetration Testing Execution Standard | XSS Vulnerabilities and
+ 	Payloads | File Inclusion and Command Injection Vulnerabilities
+
+
+Utah Valley University, Bachelor's Degree, Management (2018 - 2020)
+
+
+
+📧 **Contact:**
+- Email: tristanspoerri@gmail.com
+
+Let's connect and explore opportunities to collaborate! Feel free to reach out via LinkedIn or GitHub.
