@@ -11,16 +11,16 @@ As an Army Veteran and Cybersecurity Professional, my technical and medical admi
 *Security Fundamentals:*
 - CIA Triad | Governance | Compliance | Disaster Recovery | Risk Analysis and Risk Mitigation | Business Continuity Planning
 
-System Administration: 
+*System Administration:* 
 - Linux Server Configuration | Windows Server Configuration Tar | Cron and Cron Jobs | Logging | Bash Scripting and Programming | Active Directory | Kerberos
 
-Networks and Network Security: 
+*Networks and Network Security:* 
 - Network Architecture Operations and Security | Wireshark and Traffic Analysis | Email Security | Wireless Security | Cryptography and Encryption | Port Scanning | Cloud Security and Virtualization
 
-Defensive Security: 
+*Defensive Security:* 
 - Splunk | Monitoring and Logging | Incident Response | Forensics | Data Extraction and Recovery
 
-Offensive Security: 
+*Offensive Security:* 
 - Burp Suite | Zenmap | SQL Injection | Webshells | Pivoting Networks | Searchsploit and Metasploit | Penetration Testing Execution Standard | XSS Vulnerabilities and Payloads | File Inclusion and Command Injection Vulnerabilities
 
 🔒 **Clearance:** Active Secret Clearance
